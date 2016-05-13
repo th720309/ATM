@@ -1,0 +1,8 @@
+数据库名：客户信息表
+表名：information
+create table biao (ID char(20) primary key,name char(10),password char(10)，money double);
+客户信息：
+卡号：62232039283493032
+姓名：田浩
+密码：720309
+账号余额：12450.25

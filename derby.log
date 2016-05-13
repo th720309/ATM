@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 17 15:03:50 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0153-8363-0d03-00000666ce70 
+on database directory E:\学习\java\课设\R数学131 23 田浩\客户信息表 with class loader sun.misc.Launcher$ExtClassLoader@5ce65a89 
+Loaded from file:/C:/Program%20Files/Java/jre1.8.0_40/lib/ext/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_40-b26
+user.dir=E:\学习\java\课设\R数学131 23 田浩
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
